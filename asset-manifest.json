@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/prazzdev/gh-pagez/static/css/main.dbd93d91.css",
+    "main.js": "/prazzdev/gh-pagez/static/js/main.071a688c.js",
+    "static/media/agung.png": "/prazzdev/gh-pagez/static/media/agung.abfe17c8051e1384f9b0.png",
+    "index.html": "/prazzdev/gh-pagez/index.html",
+    "main.dbd93d91.css.map": "/prazzdev/gh-pagez/static/css/main.dbd93d91.css.map",
+    "main.071a688c.js.map": "/prazzdev/gh-pagez/static/js/main.071a688c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbd93d91.css",
+    "static/js/main.071a688c.js"
+  ]
+}
